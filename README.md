@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @kirthikakaruna
+- 👋 Hi, I’m @kirthika-k
 - 👀 I’m interested in Tech
 - 🌱 I’m currently learning Computer vision
 <!---
